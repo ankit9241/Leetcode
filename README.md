@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ankit9241/Leetcode/tree/master/0169-majority-element) |
 | [0705-design-hashset](https://github.com/ankit9241/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ankit9241/Leetcode/tree/master/0706-design-hashmap) |
+| [0912-sort-an-array](https://github.com/ankit9241/Leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ankit9241/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ankit9241/Leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/ankit9241/Leetcode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ankit9241/Leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/ankit9241/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -54,4 +57,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/ankit9241/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ankit9241/Leetcode/tree/master/0706-design-hashmap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ankit9241/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ankit9241/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ankit9241/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ankit9241/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ankit9241/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
