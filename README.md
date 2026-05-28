@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ankit9241/Leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/ankit9241/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ankit9241/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ankit9241/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ankit9241/Leetcode/tree/master/0169-majority-element) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ankit9241/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ankit9241/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ankit9241/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ankit9241/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ankit9241/Leetcode/tree/master/0036-valid-sudoku) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ankit9241/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
