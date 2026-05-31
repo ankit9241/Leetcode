@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankit9241/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ankit9241/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ankit9241/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ankit9241/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ankit9241/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ankit9241/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ankit9241/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ankit9241/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ankit9241/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ankit9241/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ankit9241/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ankit9241/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/ankit9241/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ankit9241/Leetcode/tree/master/0706-design-hashmap) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ankit9241/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ankit9241/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ankit9241/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ankit9241/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ankit9241/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ankit9241/Leetcode/tree/master/0912-sort-an-array) |
 ## Two Pointers
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ankit9241/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ankit9241/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ankit9241/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
