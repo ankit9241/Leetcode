@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ankit9241/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/ankit9241/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/ankit9241/Leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/ankit9241/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/ankit9241/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ankit9241/Leetcode/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/ankit9241/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ankit9241/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/ankit9241/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0704-binary-search](https://github.com/ankit9241/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
