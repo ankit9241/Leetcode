@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/ankit9241/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/ankit9241/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/ankit9241/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/ankit9241/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/ankit9241/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Simulation
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/ankit9241/Leetcode/tree/main/0394-decode-string/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ankit9241/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
