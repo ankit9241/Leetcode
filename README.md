@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ankit9241/Leetcode/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/ankit9241/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ankit9241/Leetcode/tree/master/0706-design-hashmap) |
+| [0981-time-based-key-value-store](https://github.com/ankit9241/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1189-maximum-number-of-balloons](https://github.com/ankit9241/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ankit9241/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ankit9241/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ankit9241/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ankit9241/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0981-time-based-key-value-store](https://github.com/ankit9241/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1189-maximum-number-of-balloons](https://github.com/ankit9241/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/ankit9241/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/ankit9241/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ankit9241/Leetcode/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/ankit9241/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/ankit9241/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Hash Function
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ankit9241/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/ankit9241/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ankit9241/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/ankit9241/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Simulation
 |  |
 | ------- |
