@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ankit9241/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0169-majority-element](https://github.com/ankit9241/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ankit9241/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ankit9241/Leetcode/tree/master/0912-sort-an-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ankit9241/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ankit9241/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/ankit9241/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ankit9241/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0092-reverse-linked-list-ii](https://github.com/ankit9241/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/ankit9241/Leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ankit9241/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -172,12 +174,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ankit9241/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ankit9241/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/ankit9241/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/ankit9241/Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ankit9241/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0912-sort-an-array](https://github.com/ankit9241/Leetcode/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ankit9241/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bucket Sort
