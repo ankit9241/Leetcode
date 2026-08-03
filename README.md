@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ankit9241/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankit9241/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankit9241/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/ankit9241/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/ankit9241/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ankit9241/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/ankit9241/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ankit9241/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0338-counting-bits](https://github.com/ankit9241/Leetcode/tree/main/0338-counting-bits/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
