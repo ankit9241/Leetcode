@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ankit9241/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ankit9241/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ankit9241/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/ankit9241/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/ankit9241/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/ankit9241/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ankit9241/Leetcode/tree/master/0344-reverse-string) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ankit9241/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/ankit9241/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0067-add-binary](https://github.com/ankit9241/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/ankit9241/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankit9241/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/ankit9241/Leetcode/tree/master/0189-rotate-array) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/ankit9241/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0682-baseball-game](https://github.com/ankit9241/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ankit9241/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 ## Queue
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/ankit9241/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/ankit9241/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/ankit9241/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ankit9241/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
