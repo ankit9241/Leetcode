@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ankit9241/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/ankit9241/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/ankit9241/Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ankit9241/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/ankit9241/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ankit9241/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Hash Table
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/ankit9241/Leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/ankit9241/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/ankit9241/Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ankit9241/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ankit9241/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ankit9241/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ankit9241/Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ankit9241/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ankit9241/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ankit9241/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ankit9241/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0912-sort-an-array](https://github.com/ankit9241/Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ankit9241/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/ankit9241/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankit9241/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/ankit9241/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ankit9241/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankit9241/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/ankit9241/Leetcode/tree/master/0189-rotate-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ankit9241/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -437,4 +443,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ankit9241/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ankit9241/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ankit9241/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
