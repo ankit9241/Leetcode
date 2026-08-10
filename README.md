@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ankit9241/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/ankit9241/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ankit9241/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/ankit9241/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0622-design-circular-queue](https://github.com/ankit9241/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/ankit9241/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/ankit9241/Leetcode/tree/master/0682-baseball-game) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ankit9241/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/ankit9241/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ankit9241/Leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/ankit9241/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0705-design-hashset](https://github.com/ankit9241/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ankit9241/Leetcode/tree/master/0706-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/ankit9241/Leetcode/tree/master/0981-time-based-key-value-store) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ankit9241/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/ankit9241/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ankit9241/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ankit9241/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/ankit9241/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0853-car-fleet](https://github.com/ankit9241/Leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/ankit9241/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ankit9241/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ankit9241/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ankit9241/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ankit9241/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ankit9241/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ankit9241/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ankit9241/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankit9241/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ankit9241/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ankit9241/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/ankit9241/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ankit9241/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0912-sort-an-array](https://github.com/ankit9241/Leetcode/tree/master/0912-sort-an-array) |
@@ -256,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ankit9241/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankit9241/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/ankit9241/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/ankit9241/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ankit9241/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/ankit9241/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Math
