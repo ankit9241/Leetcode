@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankit9241/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/ankit9241/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ankit9241/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/ankit9241/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ankit9241/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ankit9241/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ankit9241/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/ankit9241/Leetcode/tree/main/0338-counting-bits/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/ankit9241/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
