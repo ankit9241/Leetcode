@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ankit9241/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/ankit9241/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/ankit9241/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0067-add-binary](https://github.com/ankit9241/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/ankit9241/Leetcode/tree/main/0069-sqrtx/) | Easy |
