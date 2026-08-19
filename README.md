@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ankit9241/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/ankit9241/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ankit9241/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ankit9241/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/ankit9241/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ankit9241/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ankit9241/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ankit9241/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ankit9241/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/ankit9241/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ankit9241/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/ankit9241/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ankit9241/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ankit9241/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankit9241/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ankit9241/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0338-counting-bits](https://github.com/ankit9241/Leetcode/tree/main/0338-counting-bits/) | Easy |
+| [0392-is-subsequence](https://github.com/ankit9241/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/ankit9241/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 | Problem Name | Difficulty |
