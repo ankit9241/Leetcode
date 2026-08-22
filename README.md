@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ankit9241/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ankit9241/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/ankit9241/Leetcode/tree/main/0355-design-twitter/) | Medium |
+| [0389-find-the-difference](https://github.com/ankit9241/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ankit9241/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ankit9241/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ankit9241/Leetcode/tree/main/0621-task-scheduler/) | Medium |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ankit9241/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/ankit9241/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ankit9241/Leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/ankit9241/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/ankit9241/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/ankit9241/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ankit9241/Leetcode/tree/master/0567-permutation-in-string) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ankit9241/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ankit9241/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ankit9241/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/ankit9241/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0621-task-scheduler](https://github.com/ankit9241/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/ankit9241/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0853-car-fleet](https://github.com/ankit9241/Leetcode/tree/main/0853-car-fleet/) | Medium |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ankit9241/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/ankit9241/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/ankit9241/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0389-find-the-difference](https://github.com/ankit9241/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
