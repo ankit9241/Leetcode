@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ankit9241/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/ankit9241/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1470-shuffle-the-array](https://github.com/ankit9241/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ankit9241/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ankit9241/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ankit9241/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/ankit9241/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ankit9241/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ankit9241/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ankit9241/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/ankit9241/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/ankit9241/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ankit9241/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -493,4 +496,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ankit9241/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ankit9241/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ankit9241/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ankit9241/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
