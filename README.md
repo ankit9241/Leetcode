@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ankit9241/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/ankit9241/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/ankit9241/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ankit9241/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankit9241/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankit9241/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/ankit9241/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/ankit9241/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/ankit9241/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/ankit9241/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/ankit9241/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/ankit9241/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/ankit9241/Leetcode/tree/main/0078-subsets/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ankit9241/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
