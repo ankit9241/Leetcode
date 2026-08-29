@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ankit9241/Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1470-shuffle-the-array](https://github.com/ankit9241/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ankit9241/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2678-number-of-senior-citizens](https://github.com/ankit9241/Leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ankit9241/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/ankit9241/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/ankit9241/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ankit9241/Leetcode/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+| [2678-number-of-senior-citizens](https://github.com/ankit9241/Leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
