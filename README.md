@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ankit9241/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0981-time-based-key-value-store](https://github.com/ankit9241/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1189-maximum-number-of-balloons](https://github.com/ankit9241/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ankit9241/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/ankit9241/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ankit9241/Leetcode/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/ankit9241/Leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ankit9241/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/ankit9241/Leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/ankit9241/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ankit9241/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ankit9241/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
