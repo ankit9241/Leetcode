@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ankit9241/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ankit9241/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/ankit9241/Leetcode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/ankit9241/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/ankit9241/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/ankit9241/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ankit9241/Leetcode/tree/main/0046-permutations/) | Medium |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/ankit9241/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/ankit9241/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/ankit9241/Leetcode/tree/main/0078-subsets/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ankit9241/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
