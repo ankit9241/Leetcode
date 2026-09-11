@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/ankit9241/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1189-maximum-number-of-balloons](https://github.com/ankit9241/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ankit9241/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1405-longest-happy-string](https://github.com/ankit9241/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/ankit9241/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ankit9241/Leetcode/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/ankit9241/Leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ankit9241/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ankit9241/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/ankit9241/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1405-longest-happy-string](https://github.com/ankit9241/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ankit9241/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0860-lemonade-change](https://github.com/ankit9241/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/ankit9241/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1405-longest-happy-string](https://github.com/ankit9241/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ankit9241/Leetcode/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## Math
 | Problem Name | Difficulty |
