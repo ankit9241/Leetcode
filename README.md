@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ankit9241/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ankit9241/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/ankit9241/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0836-rectangle-overlap](https://github.com/ankit9241/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/ankit9241/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ankit9241/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Stack
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/ankit9241/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/ankit9241/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## K-D Tree
 | Problem Name | Difficulty |
