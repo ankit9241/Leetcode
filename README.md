@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ankit9241/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ankit9241/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/ankit9241/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ankit9241/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/ankit9241/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/ankit9241/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ankit9241/Leetcode/tree/main/0078-subsets/) | Medium |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/ankit9241/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/ankit9241/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/ankit9241/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/ankit9241/Leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/ankit9241/Leetcode/tree/main/0078-subsets/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ankit9241/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -547,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankit9241/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/ankit9241/Leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
