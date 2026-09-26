@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ankit9241/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/ankit9241/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ankit9241/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/ankit9241/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankit9241/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankit9241/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/ankit9241/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ankit9241/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/ankit9241/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/ankit9241/Leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0079-word-search](https://github.com/ankit9241/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/ankit9241/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ankit9241/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/ankit9241/Leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/ankit9241/Leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/ankit9241/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/ankit9241/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/ankit9241/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/ankit9241/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankit9241/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/ankit9241/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankit9241/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ankit9241/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/ankit9241/Leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/ankit9241/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/ankit9241/Leetcode/tree/main/0079-word-search/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ankit9241/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
