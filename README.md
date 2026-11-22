@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ankit9241/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1405-longest-happy-string](https://github.com/ankit9241/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/ankit9241/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ankit9241/Leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ankit9241/Leetcode/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/ankit9241/Leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
 ## Sorting
